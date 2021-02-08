@@ -1,0 +1,139 @@
+com/chata/app/databinding/FragmentProductDetailBindingImpl.java
+ com.chata.app.databinding.FragmentProductDetailBindingImpl
+hilt_aggregated_deps/com_chata_app_ui_viewmodel_ProductDetailViewModel_HiltModules_KeyModuleModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_viewmodel_ProductDetailViewModel_HiltModules_KeyModuleModuleDeps
+com/chata/app/ui/Hilt_ProductListFragment.java
+ com.chata.app.ui.Hilt_ProductListFragment
+com/chata/app/databinding/FragmentProductListBindingImpl.java
+ com.chata.app.databinding.FragmentProductListBindingImpl
+com/chata/app/ui/viewmodel/ProductDetailViewModel_Factory.java
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_Factory
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/chata/app/BuildConfig.java
+ com.chata.app.BuildConfig
+com/chata/app/ui/MainActivity_GeneratedInjector.java
+ com.chata.app.ui.MainActivity_GeneratedInjector
+com/chata/app/databinding/FragmentProductListBinding.java
+ com.chata.app.databinding.FragmentProductListBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/chata/app/data/ProductRepository_Factory.java
+ com.chata.app.data.ProductRepository_Factory
+com/chata/app/ui/Hilt_ProductDetailFragment.java
+ com.chata.app.ui.Hilt_ProductDetailFragment
+com/chata/app/ChataApplication_HiltComponents.java
+ com.chata.app.ChataApplication_HiltComponents
+ com.chata.app.ChataApplication_HiltComponents$ActivityC
+ com.chata.app.ChataApplication_HiltComponents$ActivityC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ActivityCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$ActivityRetainedC
+ com.chata.app.ChataApplication_HiltComponents$ActivityRetainedC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$FragmentC
+ com.chata.app.ChataApplication_HiltComponents$FragmentC$Builder
+ com.chata.app.ChataApplication_HiltComponents$FragmentCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$ServiceC
+ com.chata.app.ChataApplication_HiltComponents$ServiceC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ServiceCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$SingletonC
+ com.chata.app.ChataApplication_HiltComponents$ViewC
+ com.chata.app.ChataApplication_HiltComponents$ViewC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ViewCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$ViewModelC
+ com.chata.app.ChataApplication_HiltComponents$ViewModelC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ViewModelCBuilderModule
+ com.chata.app.ChataApplication_HiltComponents$ViewWithFragmentC
+ com.chata.app.ChataApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.chata.app.ChataApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/chata/app/databinding/ViewholderProductListBinding.java
+ com.chata.app.databinding.ViewholderProductListBinding
+com/chata/app/ui/viewmodel/ProductListViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.chata.app.ui.viewmodel.ProductListViewModel_HiltModules_KeyModule_ProvideFactory
+ com.chata.app.ui.viewmodel.ProductListViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/chata/app/ui/ProductDetailFragment_GeneratedInjector.java
+ com.chata.app.ui.ProductDetailFragment_GeneratedInjector
+com/chata/app/ui/ProductListFragment_GeneratedInjector.java
+ com.chata.app.ui.ProductListFragment_GeneratedInjector
+hilt_aggregated_deps/com_chata_app_ui_ProductListFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_ProductListFragment_GeneratedInjectorModuleDeps
+hilt_aggregated_deps/com_chata_app_ui_viewmodel_ProductDetailViewModel_HiltModules_BindsModuleModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_viewmodel_ProductDetailViewModel_HiltModules_BindsModuleModuleDeps
+hilt_aggregated_deps/com_chata_app_ui_viewmodel_ProductListViewModel_HiltModules_BindsModuleModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_viewmodel_ProductListViewModel_HiltModules_BindsModuleModuleDeps
+com/chata/app/data/api/ApiService_Factory.java
+ com.chata.app.data.api.ApiService_Factory
+ com.chata.app.data.api.ApiService_Factory$InstanceHolder
+com/chata/app/ui/ProductListFragmentDirections.java
+ com.chata.app.ui.ProductListFragmentDirections
+ com.chata.app.ui.ProductListFragmentDirections$1
+ com.chata.app.ui.ProductListFragmentDirections$ActionMainFragmentToProductDetailFragment
+hilt_aggregated_deps/com_chata_app_ChataApplication_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ChataApplication_GeneratedInjectorModuleDeps
+com/chata/app/ui/Hilt_MainActivity.java
+ com.chata.app.ui.Hilt_MainActivity
+hilt_aggregated_deps/com_chata_app_ui_viewmodel_ProductListViewModel_HiltModules_KeyModuleModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_viewmodel_ProductListViewModel_HiltModules_KeyModuleModuleDeps
+com/chata/app/databinding/ActivityMainBinding.java
+ com.chata.app.databinding.ActivityMainBinding
+hilt_aggregated_deps/com_chata_app_ui_ProductDetailFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_ProductDetailFragment_GeneratedInjectorModuleDeps
+com/chata/app/BR.java
+ com.chata.app.BR
+com/chata/app/Hilt_ChataApplication.java
+ com.chata.app.Hilt_ChataApplication
+ com.chata.app.Hilt_ChataApplication$1
+com/chata/app/databinding/ViewholderProductListBindingImpl.java
+ com.chata.app.databinding.ViewholderProductListBindingImpl
+com/chata/app/DaggerChataApplication_HiltComponents_SingletonC.java
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$1
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl$SwitchingProvider
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$Builder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.chata.app.DaggerChataApplication_HiltComponents_SingletonC$ServiceCImpl
+com/chata/app/databinding/FragmentProductDetailBinding.java
+ com.chata.app.databinding.FragmentProductDetailBinding
+com/chata/app/ui/viewmodel/ProductListViewModel_Factory.java
+ com.chata.app.ui.viewmodel.ProductListViewModel_Factory
+hilt_aggregated_deps/com_chata_app_di_DataModuleModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_di_DataModuleModuleDeps
+com/chata/app/ui/viewmodel/ProductDetailViewModel_HiltModules.java
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_HiltModules
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_HiltModules$BindsModule
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_HiltModules$KeyModule
+com/chata/app/ChataApplication_GeneratedInjector.java
+ com.chata.app.ChataApplication_GeneratedInjector
+com/chata/app/ui/viewmodel/ProductDetailViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_HiltModules_KeyModule_ProvideFactory
+ com.chata.app.ui.viewmodel.ProductDetailViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+hilt_aggregated_deps/com_chata_app_ui_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_chata_app_ui_MainActivity_GeneratedInjectorModuleDeps
+com/chata/app/ui/ProductDetailFragmentArgs.java
+ com.chata.app.ui.ProductDetailFragmentArgs
+ com.chata.app.ui.ProductDetailFragmentArgs$1
+ com.chata.app.ui.ProductDetailFragmentArgs$Builder
+com/chata/app/DataBindingTriggerClass.java
+ com.chata.app.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/chata/app/ui/viewmodel/ProductListViewModel_HiltModules.java
+ com.chata.app.ui.viewmodel.ProductListViewModel_HiltModules
+ com.chata.app.ui.viewmodel.ProductListViewModel_HiltModules$BindsModule
+ com.chata.app.ui.viewmodel.ProductListViewModel_HiltModules$KeyModule
+com/chata/app/DataBinderMapperImpl.java
+ com.chata.app.DataBinderMapperImpl
+ com.chata.app.DataBinderMapperImpl$InnerBrLookup
+ com.chata.app.DataBinderMapperImpl$InnerLayoutIdLookup

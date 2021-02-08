@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/be51704c3fcacdb61f1ad7d17d1b23f9/transformed/databinding-adapters-4.2.0-beta03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/40f8b5d46ff8d03a124a48b9983e9b58/transformed/databinding-runtime-4.2.0-beta03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/19220ef68b941fadd52ce86bf30938bc/transformed/jetified-viewbinding-4.2.0-beta03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/7cec98f8ed92278602ca1f450469e364/transformed/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/loptor/.gradle/caches/transforms-3/e6ca988089e92a1e4d538aa746bc390e/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/34689bcdb14eb01609234ed5b129ca55/transformed/navigation-ui-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/18347dc0f32f1179eb6c49e275cab4fc/transformed/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f1f4a1a6702d5878c14f867a32cffe66/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/63ffca90fa1a92d47730cf9a1fdbee49/transformed/navigation-common-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/loptor/.gradle/caches/transforms-3/1932974bf6305969d8952d9c868780b1/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ca036269ddd9c182211839a3fd4a7af1/transformed/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/3830517cb256281a10251886d9b1ff0d/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/d77e75e92c7cffd541b07099177c3dfd/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/0fc39b208b2d3622483c0707d91043f2/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/loptor/.gradle/caches/transforms-3/e42652f0dbe71f00d2143fd6cbd4438e/transformed/navigation-ui-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/loptor/.gradle/caches/transforms-3/225d2af3f425b1ad2237ac28e9f4e001/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/loptor/.gradle/caches/transforms-3/2b8682acde260c597f7a36af41903c11/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/3f33ccbc3564d087dcf8208f6837dcce/transformed/jetified-rx2-android-networking-1.0.2/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/0449c1faaaf18e4af718430b87584c2a/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/loptor/.gradle/caches/transforms-3/aaaf1d8ba4e9b2efebb7332cb888bdbf/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/loptor/.gradle/caches/transforms-3/7be6f6ce3b70b82b316b95554584c4ec/transformed/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/loptor/.gradle/caches/transforms-3/ada75cd2c51a4366850ca3b10e166d09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/loptor/.gradle/caches/transforms-3/102edad457d746830ea093b3c2b82ff7/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/loptor/.gradle/caches/transforms-3/2b3ce7454df8fb9d2ba49ff843d8fb1c/transformed/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/loptor/.gradle/caches/transforms-3/50cb900305f69e18ad328f380da15726/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/loptor/.gradle/caches/transforms-3/2ee96008c7a4ae093babed000935628d/transformed/navigation-fragment-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/loptor/.gradle/caches/transforms-3/31a77eecf5e8ac398b6a2c2c6c311229/transformed/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/loptor/.gradle/caches/transforms-3/887b1d96cd417c7afd069fd3b65aaa88/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/loptor/.gradle/caches/transforms-3/9d0ff4fdf05094f46cf6b871434e3638/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/loptor/.gradle/caches/transforms-3/74e8525f7356bc5902fed57388939dbf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f4f0abf1426bc99a2f4dbbe8746105ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/loptor/.gradle/caches/transforms-3/aa2bb9b5bd956ca662b06a80deb51ee7/transformed/navigation-runtime-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/loptor/.gradle/caches/transforms-3/bd79fe1846d667ed56692ee1f6d73cc8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/bcba419b760f154da870b03e640a5cd4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/loptor/.gradle/caches/transforms-3/2f383b91263ac5ace076c9f979de2399/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/loptor/.gradle/caches/transforms-3/41e78db9cc7d2a3a8b597d8645b7e1cc/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/1516d3806140983a19762a44373e3dd9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/loptor/.gradle/caches/transforms-3/6bb44a4673a3729f48f846f9f1f0c445/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/0cfa6967da56223f656ca7251da3564d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/loptor/.gradle/caches/transforms-3/fbe621bb7a1277779382bae9f5f8f1b7/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/loptor/.gradle/caches/transforms-3/086c9c663614b2a07a2e1a3a7a5dc1ba/transformed/navigation-common-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/loptor/.gradle/caches/transforms-3/a62a35296661cb87b98618367830975a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/loptor/.gradle/caches/transforms-3/5597729fab440fd2a71c5f97f0d29359/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/loptor/.gradle/caches/transforms-3/e7bfe46840a673506cbfd78004625165/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/loptor/.gradle/caches/transforms-3/1c67e474b3fecc6dae41ce64d3d48a3d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/loptor/.gradle/caches/transforms-3/4204b2709965eba34efe7edbc5d66721/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/loptor/.gradle/caches/transforms-3/c7ff0a089761ab2f058842ef2f268b54/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/5f941939b2ddf88442d1342ed75fc510/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/loptor/.gradle/caches/transforms-3/f6c1518d4303ee4c9b155b2c6edeff29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/loptor/.gradle/caches/transforms-3/a672b9be828e4913a368f4dae58cf2ce/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/loptor/.gradle/caches/transforms-3/6209e08b55cfdd1d9354dd5a1596b15e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ccf8521c3e819fe9182c4cb92f5cfdb4/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/loptor/.gradle/caches/transforms-3/d40041f85d03c88ab92d48f0724401a5/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/loptor/.gradle/caches/transforms-3/dcf1733c5f6ba033c4189a6800635707/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/01ead80ac854823f980f60d8f9440ef2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/loptor/.gradle/caches/transforms-3/27dec6c48e86043c435e8abc5c7faaaf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/loptor/.gradle/caches/transforms-3/364429b0bf90933d66c3bb47d1075275/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/loptor/.gradle/caches/transforms-3/ae843c3b3aa3e6b1dccfdf23e9940bd6/transformed/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/loptor/.gradle/caches/transforms-3/225d2af3f425b1ad2237ac28e9f4e001/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/loptor/.gradle/caches/transforms-3/225d2af3f425b1ad2237ac28e9f4e001/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/loptor/.gradle/caches/transforms-3/2b8682acde260c597f7a36af41903c11/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/loptor/.gradle/caches/transforms-3/2b8682acde260c597f7a36af41903c11/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/loptor/.gradle/caches/transforms-3/7be6f6ce3b70b82b316b95554584c4ec/transformed/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/loptor/.gradle/caches/transforms-3/7be6f6ce3b70b82b316b95554584c4ec/transformed/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/loptor/.gradle/caches/transforms-3/4204b2709965eba34efe7edbc5d66721/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/loptor/.gradle/caches/transforms-3/4204b2709965eba34efe7edbc5d66721/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/5f941939b2ddf88442d1342ed75fc510/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/5f941939b2ddf88442d1342ed75fc510/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:9:9-41
+activity#com.chata.app.ui.MainActivity
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:theme
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:18:13-59
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:17:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/be51704c3fcacdb61f1ad7d17d1b23f9/transformed/databinding-adapters-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/be51704c3fcacdb61f1ad7d17d1b23f9/transformed/databinding-adapters-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/40f8b5d46ff8d03a124a48b9983e9b58/transformed/databinding-runtime-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/40f8b5d46ff8d03a124a48b9983e9b58/transformed/databinding-runtime-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/19220ef68b941fadd52ce86bf30938bc/transformed/jetified-viewbinding-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.0-beta03] /Users/loptor/.gradle/caches/transforms-3/19220ef68b941fadd52ce86bf30938bc/transformed/jetified-viewbinding-4.2.0-beta03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/7cec98f8ed92278602ca1f450469e364/transformed/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/7cec98f8ed92278602ca1f450469e364/transformed/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/loptor/.gradle/caches/transforms-3/e6ca988089e92a1e4d538aa746bc390e/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/loptor/.gradle/caches/transforms-3/e6ca988089e92a1e4d538aa746bc390e/transformed/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/34689bcdb14eb01609234ed5b129ca55/transformed/navigation-ui-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/34689bcdb14eb01609234ed5b129ca55/transformed/navigation-ui-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/18347dc0f32f1179eb6c49e275cab4fc/transformed/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/18347dc0f32f1179eb6c49e275cab4fc/transformed/navigation-runtime-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f1f4a1a6702d5878c14f867a32cffe66/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f1f4a1a6702d5878c14f867a32cffe66/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/63ffca90fa1a92d47730cf9a1fdbee49/transformed/navigation-common-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] /Users/loptor/.gradle/caches/transforms-3/63ffca90fa1a92d47730cf9a1fdbee49/transformed/navigation-common-ktx-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/loptor/.gradle/caches/transforms-3/1932974bf6305969d8952d9c868780b1/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/loptor/.gradle/caches/transforms-3/1932974bf6305969d8952d9c868780b1/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ca036269ddd9c182211839a3fd4a7af1/transformed/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ca036269ddd9c182211839a3fd4a7af1/transformed/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/3830517cb256281a10251886d9b1ff0d/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/3830517cb256281a10251886d9b1ff0d/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/d77e75e92c7cffd541b07099177c3dfd/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/d77e75e92c7cffd541b07099177c3dfd/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/0fc39b208b2d3622483c0707d91043f2/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/loptor/.gradle/caches/transforms-3/0fc39b208b2d3622483c0707d91043f2/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/loptor/.gradle/caches/transforms-3/e42652f0dbe71f00d2143fd6cbd4438e/transformed/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/loptor/.gradle/caches/transforms-3/e42652f0dbe71f00d2143fd6cbd4438e/transformed/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/loptor/.gradle/caches/transforms-3/225d2af3f425b1ad2237ac28e9f4e001/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/loptor/.gradle/caches/transforms-3/225d2af3f425b1ad2237ac28e9f4e001/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/loptor/.gradle/caches/transforms-3/2b8682acde260c597f7a36af41903c11/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/loptor/.gradle/caches/transforms-3/2b8682acde260c597f7a36af41903c11/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/3f33ccbc3564d087dcf8208f6837dcce/transformed/jetified-rx2-android-networking-1.0.2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/3f33ccbc3564d087dcf8208f6837dcce/transformed/jetified-rx2-android-networking-1.0.2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/0449c1faaaf18e4af718430b87584c2a/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/loptor/.gradle/caches/transforms-3/0449c1faaaf18e4af718430b87584c2a/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/loptor/.gradle/caches/transforms-3/aaaf1d8ba4e9b2efebb7332cb888bdbf/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/loptor/.gradle/caches/transforms-3/aaaf1d8ba4e9b2efebb7332cb888bdbf/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/loptor/.gradle/caches/transforms-3/7be6f6ce3b70b82b316b95554584c4ec/transformed/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/loptor/.gradle/caches/transforms-3/7be6f6ce3b70b82b316b95554584c4ec/transformed/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/loptor/.gradle/caches/transforms-3/ada75cd2c51a4366850ca3b10e166d09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/loptor/.gradle/caches/transforms-3/ada75cd2c51a4366850ca3b10e166d09/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/loptor/.gradle/caches/transforms-3/102edad457d746830ea093b3c2b82ff7/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/loptor/.gradle/caches/transforms-3/102edad457d746830ea093b3c2b82ff7/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/loptor/.gradle/caches/transforms-3/2b3ce7454df8fb9d2ba49ff843d8fb1c/transformed/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/loptor/.gradle/caches/transforms-3/2b3ce7454df8fb9d2ba49ff843d8fb1c/transformed/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/loptor/.gradle/caches/transforms-3/50cb900305f69e18ad328f380da15726/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/loptor/.gradle/caches/transforms-3/50cb900305f69e18ad328f380da15726/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/loptor/.gradle/caches/transforms-3/2ee96008c7a4ae093babed000935628d/transformed/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/loptor/.gradle/caches/transforms-3/2ee96008c7a4ae093babed000935628d/transformed/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/loptor/.gradle/caches/transforms-3/31a77eecf5e8ac398b6a2c2c6c311229/transformed/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/loptor/.gradle/caches/transforms-3/31a77eecf5e8ac398b6a2c2c6c311229/transformed/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/loptor/.gradle/caches/transforms-3/887b1d96cd417c7afd069fd3b65aaa88/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/loptor/.gradle/caches/transforms-3/887b1d96cd417c7afd069fd3b65aaa88/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/loptor/.gradle/caches/transforms-3/9d0ff4fdf05094f46cf6b871434e3638/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/loptor/.gradle/caches/transforms-3/9d0ff4fdf05094f46cf6b871434e3638/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/loptor/.gradle/caches/transforms-3/74e8525f7356bc5902fed57388939dbf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/loptor/.gradle/caches/transforms-3/74e8525f7356bc5902fed57388939dbf/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f4f0abf1426bc99a2f4dbbe8746105ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/f4f0abf1426bc99a2f4dbbe8746105ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/loptor/.gradle/caches/transforms-3/aa2bb9b5bd956ca662b06a80deb51ee7/transformed/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/loptor/.gradle/caches/transforms-3/aa2bb9b5bd956ca662b06a80deb51ee7/transformed/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/loptor/.gradle/caches/transforms-3/bd79fe1846d667ed56692ee1f6d73cc8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/loptor/.gradle/caches/transforms-3/bd79fe1846d667ed56692ee1f6d73cc8/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/bcba419b760f154da870b03e640a5cd4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/bcba419b760f154da870b03e640a5cd4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/loptor/.gradle/caches/transforms-3/2f383b91263ac5ace076c9f979de2399/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/loptor/.gradle/caches/transforms-3/2f383b91263ac5ace076c9f979de2399/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/loptor/.gradle/caches/transforms-3/41e78db9cc7d2a3a8b597d8645b7e1cc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/loptor/.gradle/caches/transforms-3/41e78db9cc7d2a3a8b597d8645b7e1cc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/1516d3806140983a19762a44373e3dd9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/1516d3806140983a19762a44373e3dd9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/loptor/.gradle/caches/transforms-3/6bb44a4673a3729f48f846f9f1f0c445/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/loptor/.gradle/caches/transforms-3/6bb44a4673a3729f48f846f9f1f0c445/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/0cfa6967da56223f656ca7251da3564d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/loptor/.gradle/caches/transforms-3/0cfa6967da56223f656ca7251da3564d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/loptor/.gradle/caches/transforms-3/fbe621bb7a1277779382bae9f5f8f1b7/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/loptor/.gradle/caches/transforms-3/fbe621bb7a1277779382bae9f5f8f1b7/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/loptor/.gradle/caches/transforms-3/086c9c663614b2a07a2e1a3a7a5dc1ba/transformed/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/loptor/.gradle/caches/transforms-3/086c9c663614b2a07a2e1a3a7a5dc1ba/transformed/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/loptor/.gradle/caches/transforms-3/5f766d70ff6e83568c30a127c4b58fac/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/loptor/.gradle/caches/transforms-3/a62a35296661cb87b98618367830975a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/loptor/.gradle/caches/transforms-3/a62a35296661cb87b98618367830975a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/loptor/.gradle/caches/transforms-3/5597729fab440fd2a71c5f97f0d29359/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/loptor/.gradle/caches/transforms-3/5597729fab440fd2a71c5f97f0d29359/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/loptor/.gradle/caches/transforms-3/e7bfe46840a673506cbfd78004625165/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/loptor/.gradle/caches/transforms-3/e7bfe46840a673506cbfd78004625165/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/loptor/.gradle/caches/transforms-3/1c67e474b3fecc6dae41ce64d3d48a3d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/loptor/.gradle/caches/transforms-3/1c67e474b3fecc6dae41ce64d3d48a3d/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/loptor/.gradle/caches/transforms-3/4204b2709965eba34efe7edbc5d66721/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/loptor/.gradle/caches/transforms-3/4204b2709965eba34efe7edbc5d66721/transformed/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/loptor/.gradle/caches/transforms-3/c7ff0a089761ab2f058842ef2f268b54/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/loptor/.gradle/caches/transforms-3/c7ff0a089761ab2f058842ef2f268b54/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/5f941939b2ddf88442d1342ed75fc510/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/loptor/.gradle/caches/transforms-3/5f941939b2ddf88442d1342ed75fc510/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/loptor/.gradle/caches/transforms-3/f6c1518d4303ee4c9b155b2c6edeff29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/loptor/.gradle/caches/transforms-3/f6c1518d4303ee4c9b155b2c6edeff29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/loptor/.gradle/caches/transforms-3/a672b9be828e4913a368f4dae58cf2ce/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/loptor/.gradle/caches/transforms-3/a672b9be828e4913a368f4dae58cf2ce/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/loptor/.gradle/caches/transforms-3/6209e08b55cfdd1d9354dd5a1596b15e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/loptor/.gradle/caches/transforms-3/6209e08b55cfdd1d9354dd5a1596b15e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ccf8521c3e819fe9182c4cb92f5cfdb4/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/loptor/.gradle/caches/transforms-3/ccf8521c3e819fe9182c4cb92f5cfdb4/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/loptor/.gradle/caches/transforms-3/d40041f85d03c88ab92d48f0724401a5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/loptor/.gradle/caches/transforms-3/d40041f85d03c88ab92d48f0724401a5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/loptor/.gradle/caches/transforms-3/dcf1733c5f6ba033c4189a6800635707/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/loptor/.gradle/caches/transforms-3/dcf1733c5f6ba033c4189a6800635707/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/01ead80ac854823f980f60d8f9440ef2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/loptor/.gradle/caches/transforms-3/01ead80ac854823f980f60d8f9440ef2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/loptor/.gradle/caches/transforms-3/27dec6c48e86043c435e8abc5c7faaaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/loptor/.gradle/caches/transforms-3/27dec6c48e86043c435e8abc5c7faaaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/loptor/.gradle/caches/transforms-3/364429b0bf90933d66c3bb47d1075275/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/loptor/.gradle/caches/transforms-3/364429b0bf90933d66c3bb47d1075275/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/loptor/.gradle/caches/transforms-3/ae843c3b3aa3e6b1dccfdf23e9940bd6/transformed/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/loptor/.gradle/caches/transforms-3/ae843c3b3aa3e6b1dccfdf23e9940bd6/transformed/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:18:3-42
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/AndroidManifest.xml

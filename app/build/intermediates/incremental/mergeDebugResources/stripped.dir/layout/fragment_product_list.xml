@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+    
+                 
+                            
+                             
+           
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/fragment_product_list_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tool="http://schemas.android.com/tools">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:tag="binding_1"      
+            android:visibility="visible"
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layoutManager="LinearLayoutManager" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/error_view"
+            android:tag="binding_2"     
+            app:tint="@android:color/holo_purple"
+            android:src="@android:drawable/stat_notify_error"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+         

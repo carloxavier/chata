@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_list.xml",
+        "source": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/res/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/viewholder_product_list.xml",
+        "source": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/res/layout/viewholder_product_list.xml"
+    },
+    {
+        "merged": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_detail.xml",
+        "source": "/Users/loptor/AndroidStudioProjects/Pickatooy/app/src/main/res/layout/fragment_product_detail.xml"
+    }
+]
